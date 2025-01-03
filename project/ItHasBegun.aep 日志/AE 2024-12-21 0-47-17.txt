@@ -1,0 +1,17 @@
+Adobe After Effects v23.0 Windows 64 为项目“ItHasBegun.aep”渲染日志
+
+渲染在“0:47:17”的“2024/12/21”上开始
+
+  “2024/12/21”“0:47:17”: 开始合成“ItHasBegun”。
+
+  输出到: D:\Code\ae\anim\it_has_begun\ItHasBegun_1.mp4  After Effects警告: 鏃犳硶鎵撳紑鏂囦欢鈥淐:\Users\L_Z_Dect\AppData\Local\Temp\Adobe\After Effects\23.0\Disk Cache - L_Z_Dect.noindex\36\36a99a39-7a24-53ba-f380-b2925c2a9986.ADBE ICV.B38063B.AAAAADgEgAc=.aecache鈥濄€?  “2024/12/21”“1:35:18”: 完成的合成“ItHasBegun”。
+
+
+  “2024/12/21”“1:35:20”: 开始合成“ItHasBegun”。
+
+  输出到: D:\Code\ae\anim\it_has_begun\ItHasBegun_2.mp4    “2024/12/21”“2:26:01”: 完成的合成“ItHasBegun”。
+
+
+  已用总时间: 1 小时，38 分钟
+日志在“2:26:01”的“2024/12/21”上关闭
+
